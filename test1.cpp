@@ -12,3 +12,5 @@ int main()
     std::cout << std::setprecision(2) << std::fixed; // fixed evita el truncamiento
     std::cout << "Valor de x con setprecision: " << x << std::endl; 
 }
+
+// mensaje de prueba
